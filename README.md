@@ -1,6 +1,6 @@
 
 <!-- Profile Header -->
-<h1 align="center">👋 Hi there, I'm <span style="color:#00ffff">Vaishnavu C V</span> aka <a href="https://github.com/hackwithvyshu" target="_blank">@hackwithvyshu</a> 💻</h1>
+<h1 align="center">👋 Hi there, I'm <span style="color:#00ffff">Sri Vishnu</span> aka <a href="https://github.com/hackwithvyshu" target="_blank">@hackwithvishnu</a> 💻</h1>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Python+Dev+%7C+Full+Stack+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
