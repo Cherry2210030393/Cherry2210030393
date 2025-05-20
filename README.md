@@ -1,11 +1,6 @@
-# 💫 About Me:
-Who is This Curious Cyber Explorer? AKA Sri Vishnu<br>Hey there! I'm a relentlessly curious cybersecurity enthusiast with a knack for understanding how things break — and an even bigger passion for learning how to secure them.<br><br>🔍 From reverse engineering a bug to scripting my own tools, I’m constantly navigating the cyber universe one vulnerability at a time. Whether it’s dissecting a CTF challenge at 2 AM or automating scans on my home lab, I live for the adrenaline of discovery.<br><br>💡 I’m not just learning cybersecurity — I’m living it, breathing it, and building my mindset around thinking like an attacker to protect like a defender.<br><br>🧠 Always hungry to explore:<br>🛡 Ethical hacking & penetration testing<br>🌐 Web, network, and cloud security<br>🔁 DevSecOps pipelines & security automation<br>🎯 Red teaming strategies and blue team countermeasures<br>🔧 Building open-source tools for real-world security problems<br>🎓 Still a student by title, but already a researcher by mindset. My goal? To become a warrior of the web — one script, one exploit, one secure system at a time.
+# Who is This Curious Cyber Explorer? AKA Sri Vishnu
+<br>Hey there! I'm a relentlessly curious cybersecurity enthusiast with a knack for understanding how things break — and an even bigger passion for learning how to secure them.<br><br>🔍 From reverse engineering a bug to scripting my own tools, I’m constantly navigating the cyber universe one vulnerability at a time. Whether it’s dissecting a CTF challenge at 2 AM or automating scans on my home lab, I live for the adrenaline of discovery.<br><br>💡 I’m not just learning cybersecurity — I’m living it, breathing it, and building my mindset around thinking like an attacker to protect like a defender.<br><br>🧠 Always hungry to explore:<br>🛡 Ethical hacking & penetration testing<br>🌐 Web, network, and cloud security<br>🔁 DevSecOps pipelines & security automation<br>🎯 Red teaming strategies and blue team countermeasures<br>🔧 Building open-source tools for real-world security problems<br>🎓 Still a student by title, but already a researcher by mindset. My goal? To become a warrior of the web — one script, one exploit, one secure system at a time.
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/UlEC9phZ1081080209740136478) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vishnu_0116/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sri-vishnu-dronadula-a429b2259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dronadulasrivishnu@gmail.com) 
-
-# 💻 Tech Stack:
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,7 +52,6 @@ Who is This Curious Cyber Explorer? AKA Sri Vishnu<br>Hey there! I'm a relentles
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SriVishnu-999&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
