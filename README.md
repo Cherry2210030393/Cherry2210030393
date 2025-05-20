@@ -1,71 +1,32 @@
 
-<!-- Profile Header -->
-<h1 align="center">👋 Hi there, I'm <span style="color:#00ffff">Sri Vishnu</span> aka <a href="https://github.com/hackwithvyshu" target="_blank">@hackwithvishnu</a> 💻</h1>
+<h1 align="center">🌐 Cyber Sentinel in Training 🔐</h1>
+
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+Python+Dev+%7C+Full+Stack+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=🔍+Breaking+Barriers+in+Cybersecurity+Learning;💡+Curious+Mind+%7C+Passionate+Explorer+%7C+Future+Pentester;🚀+Student+by+Title+%7C+Researcher+by+Mindset" alt="Typing SVG" />
 </p>
 
----
+## 👨‍💻 Who is This Curious Cyber Explorer?
 
-### 🚀 About Me
-🔭 I’m an AI-Powered Cybersecurity Researcher & Developer passionate about turning ideas into solutions.<br>
-🌐 I love working with Web, AI, APIs, Automation, and Security.<br>
-📚 Forever a student, always improving.<br>
-🛠️ Obsessed with building efficient tools and scalable systems.<br>
+Hey there! I'm a **relentlessly curious cybersecurity enthusiast** with a knack for understanding how things break — and an even bigger passion for learning how to secure them.
 
----
+🔍 From reverse engineering a bug to scripting my own tools, I’m constantly navigating the cyber universe one vulnerability at a time. Whether it’s dissecting a CTF challenge at 2 AM or automating scans on my home lab, I live for the adrenaline of discovery.
 
-### 🧠 My Expertise
-- 🎯 AI/ML/NLP with Python
-- 🔐 Cybersecurity | Secret Leak Detection | Threat Intel
-- 🌐 Full Stack Web Development (React, Node.js, Flask)
-- 🧪 API Automation & Web Scraping
-- 🔎 GitHub Monitoring, Security Tooling, DevSecOps
-- ☁️ Firebase, MongoDB, and Serverless Functions
+💡 I’m not just learning cybersecurity — I’m *living it*, breathing it, and building my mindset around *thinking like an attacker to protect like a defender*.
 
----
+### 🧠 Always hungry to explore:
+- 🛡 Ethical hacking & penetration testing  
+- 🌐 Web, network, and cloud security  
+- 🔁 DevSecOps pipelines & security automation  
+- 🎯 Red teaming strategies and blue team countermeasures  
+- 🔧 Building open-source tools for real-world security problems
 
-### 🛠 Tech Stack
-#### Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🎓 Still a student by title, but already a researcher by mindset. My goal? **To become a warrior of the web — one script, one exploit, one secure system at a time.**
 
-#### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackwithvyshu&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackwithvyshu&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hackwithvyshu&theme=radical&margin-w=10&row=2&column=3"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hackwithvyshu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/hackwithvyshu)
-[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hackwithvyshu)
+> *"Curiosity is not a trait I possess. It’s a lifestyle I chose — in the world of 1s and 0s."*
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,aws,docker" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="stats"/>
 </p>
