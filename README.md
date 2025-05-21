@@ -47,6 +47,13 @@ Whether it’s scripting automation, building full-stack platforms, or simulatin
 
 ---
 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-vishnu-dronadula-a429b2259)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vishnu_0116/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1081080209740136478)
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SriVishnu-999&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
